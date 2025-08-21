@@ -29,7 +29,7 @@
 
 <!-- Achievement Cards -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viduah&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidunuwan&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
