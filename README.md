@@ -18,6 +18,21 @@
 - 🌍 Always exploring **AI, scalable systems, and game engines**.  
 
 ---
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  
+<!-- GitHub Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=viduah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+<!-- Achievement Cards -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viduah&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
 
 ## 🛠️ Tech Stack  
 
