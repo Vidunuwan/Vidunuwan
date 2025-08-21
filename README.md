@@ -23,7 +23,7 @@
 <div align="center">
   
 <!-- GitHub Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=viduah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vidunuwan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
