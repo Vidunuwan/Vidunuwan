@@ -71,7 +71,7 @@
 
 ## 📫 Let’s Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/vidunuwan](https://www.linkedin.com/in/umayanga-vidunuwan-a8507b1a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/umayanga-vidunuwan-a8507b1a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:uvidunuwan@gmail.com" target="_blank">
