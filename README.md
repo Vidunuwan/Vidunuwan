@@ -1,101 +1,50 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Umayanga%20Vidunuwan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
-</p>
+# 👋 Hi, I'm **Vidu**
 
-# 💻 Hi, I’m Vidunuwan 👋  
-
-🚀 A passionate **Full-Stack Software Engineer** & **Game Developer**  
-⚡ Turning **ideas into scalable apps** and **dreams into games**  
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** who loves building robust backend systems, crafting clean APIs, and exploring new technologies. I enjoy working with **Laravel**, **Node.js**, **React**, and cloud services while continuously improving my development workflow.
 
 ---
 
-## 🌟 About Me  
-- 🎓 **Software Engineer** with **2+ years** experience.  
-- 💻 Skilled in **backend, frontend & game development**.  
-- 🎮 Experienced with **Unreal Engine & Unity** (multiplayer systems too 🚀).  
-- 🧮 Love for **mathematics** & applying logical problem-solving.  
-- 🌍 Always exploring **AI, scalable systems, and game engines**.  
-
----
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  
-<!-- GitHub Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=vidunuwan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
-<!-- Achievement Cards -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidunuwan&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
-</div>
+## 🚀 **About Me**
+- 🔭 Currently working on: **Mobile app backend (Laravel)** and **Real-time apps**
+- 🌱 Learning: **Laravel best practices**, **Django**, **Cloud services**, **Game development (UE5)**
+- 👯 Open to collaborate on: **API development**, **Laravel packages**, **Real-time apps**, **Web dashboards**
+- 🎮 Fun fact: I love **Rocket League**, chess, and solving mathematical puzzles.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ **Tech Stack**
 
-### 🚀 Languages & Frameworks  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+### **Backend**
+- PHP, Laravel, Node.js, Express.js, Python (microservices)
 
-### ⚙️ Backend & Tools  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+### **Frontend**
+- React.js, Vue.js, Core UI, Tailwind CSS
 
-### 🗄️ Databases & Cloud  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+### **Databases**
+- MySQL, PostgreSQL, MongoDB, Firebase Firestore
 
-### 🎮 Game Development  
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+### **DevOps / Cloud**
+- Docker, AWS (Lambda, API Gateway, S3), GitHub Actions
+
+### **Tools**
+- Git, Postman, Linux Server Management
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidunuwan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidunuwan&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidunuwan&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidunuwan&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidunuwan&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidunuwan&theme=tokyonight)
 
 ---
 
-## 🌍 What I’m Working On  
-- 🏗️ **Scalable APIs** with **Laravel & Node.js**  
-- 🔐 **Authentication & Security** (JWT, OAuth, Sanctum)  
-- 🎮 **Multiplayer Online Games** using **Socket.IO, Unreal & Unity**  
-- 📊 **Recommendation Systems & Sharding** in large-scale databases  
+## 🌐 **Connect With Me**
+- 💼 LinkedIn: *Add your link here*
+- 📧 Email: *Add your email here*
 
 ---
 
-## 📫 Let’s Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/umayanga-vidunuwan-a8507b1a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:uvidunuwan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer"/>
-</p>
+⭐ **Thanks for visiting my profile!** If you like my projects, feel free to star them! 🚀
