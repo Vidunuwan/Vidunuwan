@@ -1,50 +1,66 @@
-# 👋 Hi, I'm **Vidu**
+# Hi 👋, I'm Vidu
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** who loves building robust backend systems, crafting clean APIs, and exploring new technologies. I enjoy working with **Laravel**, **Node.js**, **React**, and cloud services while continuously improving my development workflow.
+🚀 Software Engineer | Backend-Focused | API & System Builder  
 
----
-
-## 🚀 **About Me**
-- 🔭 Currently working on: **Mobile app backend (Laravel)** and **Real-time apps**
-- 🌱 Learning: **Laravel best practices**, **Django**, **Cloud services**, **Game development (UE5)**
-- 👯 Open to collaborate on: **API development**, **Laravel packages**, **Real-time apps**, **Web dashboards**
-- 🎮 Fun fact: I love **Rocket League**, chess, and solving mathematical puzzles.
+I’m a software engineer with a strong focus on backend development.  
+I enjoy building scalable APIs, clean business logic, and reliable systems that solve real-world problems.
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-### **Backend**
-- PHP, Laravel, Node.js, Express.js, Python (microservices)
+### Backend
+- PHP (Laravel)
+- Node.js
+- REST APIs
+- JWT / Laravel Sanctum Authentication
 
-### **Frontend**
-- React.js, Vue.js, Core UI, Tailwind CSS
+### Frontend
+- React
+- JavaScript
+- HTML / CSS
 
-### **Databases**
-- MySQL, PostgreSQL, MongoDB, Firebase Firestore
+### Databases
+- MySQL
+- Firebase Firestore
 
-### **DevOps / Cloud**
-- Docker, AWS (Lambda, API Gateway, S3), GitHub Actions
-
-### **Tools**
-- Git, Postman, Linux Server Management
-
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidunuwan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidunuwan&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidunuwan&theme=tokyonight)
+### Tools & Platforms
+- Git & GitHub
+- AWS S3
+- Firebase
+- Postman
 
 ---
 
-## 🌐 **Connect With Me**
-- 💼 LinkedIn: *Add your link here*
-- 📧 Email: *Add your email here*
+## 📌 What I’m Currently Working On
+- 🔐 Secure authentication systems (JWT, Sanctum)
+- 💳 Payment gateway integrations
+- 🔔 Real-time notifications (Firebase FCM)
+- 🎮 Real-time multiplayer application logic
 
 ---
 
-⭐ **Thanks for visiting my profile!** If you like my projects, feel free to star them! 🚀
+## 🌱 Currently Learning
+- System design & scalability
+- Advanced Laravel architecture
+- AI-assisted development workflows
+
+---
+
+## 📈 GitHub Stats
+
+![Vidu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidunuwan&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidunuwan&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidunuwan&theme=default)
+
+---
+
+## 🤝 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- 📧 Email: your@email.com
+
+---
+
+⭐ *“Clean code, clear logic, scalable systems.”*
